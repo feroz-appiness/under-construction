@@ -38,9 +38,9 @@ height="100%"
 justifyContent="center"
 >
 <Container maxWidth="md">
-
+<Box textAlign="center">
 <img alt="Under-Construction" className={classes.image} src={UnderConstructionImage} />
-
+</Box>
 <Typography align="center" color="textPrimary" variant="h4">
 WEBSITE IS UNDER CONSTRUCTION
 </Typography>
